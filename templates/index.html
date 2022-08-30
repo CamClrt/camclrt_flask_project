@@ -15,7 +15,7 @@
     <div class="container">
 
         <div class="row">
-
+            {% for res in result %}
             <div class="col-12 col-lg-4">
                 <div class="card mx-1 my-3 shadow p-3 mb-5 bg-white rounded">
                     <img alt="illustration" class="card-img-top" src="static/img/{{ res.img }}">
@@ -29,7 +29,7 @@
                     </div>
                 </div>
             </div>
-
+            {% endfor %}
         </div>
     </div>
 </section>
