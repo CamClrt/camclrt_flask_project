@@ -1,8 +1,8 @@
-# Flask 2.2 Custom Template
+# camclrt flask project
 
-A custom Flask template to quickstart new projects and avoid reinventing wheel everytime
+A personal Flask project for fun
 
-##Tech Stack
+## Tech Stack
 
     Python 3.8
     Flask 2.2
