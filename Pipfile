@@ -7,6 +7,10 @@ name = "pypi"
 flask = "*"
 pytest = "*"
 coverage = "*"
+psycopg2-binary = "*"
+python-dotenv = "*"
+flask-sqlalchemy = "*"
+flask-migrate = "*"
 
 [dev-packages]
 
